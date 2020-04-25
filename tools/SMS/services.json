@@ -1,0 +1,13 @@
+{
+	"services": [
+		{
+			"url": "https://pizzahut.ru/account/password-reset",
+			"data": "{'reset_by':'phone', 'action_id':'pass-recovery', 'phone': '%phone5%', '_token':'*''email': 'email','x-email': 'x-email'}"
+		},
+		{
+			"url": "https://www.rabota.ru/remind",
+			"data": "{'credential': '%phone%''email': 'email','x-email': 'x-email'}"
+		}
+		
+	]
+}
